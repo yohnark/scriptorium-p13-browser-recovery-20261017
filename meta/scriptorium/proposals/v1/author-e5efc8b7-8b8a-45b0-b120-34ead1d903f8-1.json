@@ -1,0 +1,48 @@
+{
+  "version": 1,
+  "proposalId": "author-e5efc8b7-8b8a-45b0-b120-34ead1d903f8-1",
+  "digest": "7635e67899563797be4b0e90fddf6abac626eee1f856756bd0580fb97e643723",
+  "proposal": {
+    "id": "author-e5efc8b7-8b8a-45b0-b120-34ead1d903f8-1",
+    "snapshot": {
+      "repository": {
+        "provider": "github",
+        "repositoryId": "1422490697",
+        "defaultBranch": "main",
+        "ownerScope": "github:213253858",
+        "url": "https://github.com/yohnark/scriptorium-p13-browser-recovery-20261017.git"
+      },
+      "remoteCommit": "a64d3977b4af766f4bd952075bbe3b34b596787e"
+    },
+    "operations": [
+      {
+        "id": "e5efc8b7-8b8a-45b0-b120-34ead1d903f8",
+        "generation": 1,
+        "repository": {
+          "provider": "github",
+          "repositoryId": "1422490697",
+          "defaultBranch": "main",
+          "ownerScope": "github:213253858",
+          "url": "https://github.com/yohnark/scriptorium-p13-browser-recovery-20261017.git"
+        },
+        "baseRemoteCommit": "a64d3977b4af766f4bd952075bbe3b34b596787e",
+        "effect": "manuscript",
+        "reads": [
+          {
+            "path": "manuscript/vol-1/ch-1/scene-1.md",
+            "revision": "44f0c7eeb09015bf09d7d70670d9df00bd8cfeb3a3cee8ec09b037ec80b63f76"
+          }
+        ],
+        "writes": [
+          {
+            "path": "manuscript/vol-1/ch-1/scene-1.md",
+            "revision": "44f0c7eeb09015bf09d7d70670d9df00bd8cfeb3a3cee8ec09b037ec80b63f76",
+            "content": "P13 browser recovery 5252ae71-da01-4b0a-8e92-80ef3a052fe5"
+          }
+        ],
+        "message": "loom(scene): scene-1\n\nLoom-Manuscript: scene-1\nLoom-File: manuscript/vol-1/ch-1/scene-1.md\nLoom-Char-Count: 57"
+      }
+    ],
+    "source": "author"
+  }
+}
