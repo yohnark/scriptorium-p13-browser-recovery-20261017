@@ -1,0 +1,19 @@
+{
+  "version": 2,
+  "proposalId": "author-46155896-88b5-488e-bab2-75b18489d852-1",
+  "digest": "ff6eb0db7173e756ee4bc299311f5f9dff8576837bd6e783205b6a399aa4d5d1",
+  "snapshot": {
+    "repository": {
+      "provider": "github",
+      "repositoryId": "1422490697",
+      "defaultBranch": "main",
+      "ownerScope": "github:213253858",
+      "url": "https://github.com/yohnark/scriptorium-p13-browser-recovery-20261017.git"
+    },
+    "remoteCommit": "9f736f5657d9335760aa42dd54979f429c2aa65c"
+  },
+  "source": "author",
+  "operationIds": [
+    "46155896-88b5-488e-bab2-75b18489d852"
+  ]
+}
