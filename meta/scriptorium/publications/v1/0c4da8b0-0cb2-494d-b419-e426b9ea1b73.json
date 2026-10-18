@@ -1,0 +1,24 @@
+{
+  "version": 1,
+  "batchId": "0c4da8b0-0cb2-494d-b419-e426b9ea1b73",
+  "digest": "9a09d27676123712449ed53bacfbaa4fea0ed985445d5dabbdcc13bc57d3dcaa",
+  "operations": [
+    {
+      "operationId": "22f27af6-32eb-4c6b-a07e-d8da60124a11",
+      "generation": 1,
+      "digest": "a3b3566c7cd12a35560ccabc3542717ce53280eac837050dc88a704676522bb0",
+      "receipt": {
+        "operationId": "22f27af6-32eb-4c6b-a07e-d8da60124a11",
+        "generation": 1,
+        "localCommit": "b7f2a9f900531a1ab5f381dbf862a2bb887e8404",
+        "remoteBase": "977e7569c344c62f209edcda39cc9bfc4cfb2683",
+        "revisions": [
+          {
+            "path": "manuscript/vol-1/ch-1/scene-1.md",
+            "revision": "2646b15af7aabd9d6065060fe7393eb20108eb3cc72a51a28b6ff431f08d1483"
+          }
+        ]
+      }
+    }
+  ]
+}
